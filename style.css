@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(193, 193, 255);
+    text-align: center;
+    color:black
+}
+
+hr{
+    border-width: 3px;
+    border-style: dashed;
+    border-color: rgb(185, 111, 255);
+}
+
+ul{
+    list-style: none;
+}
